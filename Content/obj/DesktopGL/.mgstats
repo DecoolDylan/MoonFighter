@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Dylan/Desktop/projects/MoonFighter/Content/start.png","C:/Users/Dylan/Desktop/projects/MoonFighter/Content/bin/DesktopGL/start.xnb","TextureProcessor","Texture2DContent",2764,32425,0,1713506
+"C:/Users/Dylan/Desktop/projects/MoonFighter/Content/startclicked.png","C:/Users/Dylan/Desktop/projects/MoonFighter/Content/bin/DesktopGL/startclicked.xnb","TextureProcessor","Texture2DContent",2764,32425,0,0062379
